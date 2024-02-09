@@ -10,7 +10,9 @@ Context
 
 The rising popularity of the Doginals protocol and the subsequent surge in fungible token inscriptions, particularly DRC-20, have led to increased demand for blockspace on the Dogecoin network. This surge has resulted in unusually high fees, adversely affecting Doginals art creators and collectors due to the larger size of image inscriptions compared to text inscriptions used for trading fungible tokens. 
 
-Such conditions have compelled creators of Doginal collections to postpone or abandon their projects, discouraging new creators from venturing into the Dogecoin ecosystem. To foster continued innovation within Dogecoin blockchain collections, I introduce a novel approach for launching pixel art Doginal collections.As the Doginals protocol gains traction, fungible token inscriptions (most notably DRC-20) have greatly increased the demand for blockspace on the Dogecoin network. 
+Such conditions have compelled creators of Doginal collections to postpone or abandon their projects, discouraging new creators from venturing into the Dogecoin ecosystem. 
+
+To foster continued innovation within Dogecoin blockchain collections, I introduce a novel approach for launching pixel art Doginal collections.As the Doginals protocol gains traction, fungible token inscriptions (most notably DRC-20) have greatly increased the demand for blockspace on the Dogecoin network. 
 
 This has led to abnormally high fees, which disproportionately affect Doginals art creators and collectors, 
 because image inscriptions are larger than text inscriptions such as those used to buy and sell fungible tokens. 
@@ -18,11 +20,11 @@ This has forced Doginal collection creators to delay or cancel plans for Doginal
 and discourages creators from entering the Dogecoin space. 
 
 In order to continue encouraging creators to launch innovative collections on the Dogecoin blockchain, 
-we propose a new approach for launching pixel art Doginal collections.
+I propose a new approach for launching pixel art Doginal collections.
 
 The Idea
 
-I introduce a new standard aimed at launching non-fungible Doginals collections. This standard employs recursion to decouple logic from the mint script, potentially reducing block space requirements by 50% to 90%+, depending on the collection size and network fees.
+I am seeking to introduce a new standard aimed at launching non-fungible Doginals collections. This standard employs recursion to decouple logic from the mint script, potentially reducing block space requirements by 50% to 90%+, depending on the collection size and network fees.
 
 I propose a new standard for launching non-fungible Doginals collections. 
 This standard leverages recursion to separate the logic from the mint script, 
